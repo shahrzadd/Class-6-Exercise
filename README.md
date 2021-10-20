@@ -1,4 +1,6 @@
 1-Assuming that you aren't sure whether you're currently inside of a Git repository, write the command (or commands) that will give you this information.
+“ls -a” to look for a hidden .git folder
+“git status” or git + any command but “help”
 
 
 2-Assuming that you are currently within a Git repository, write the command (or commands) that will create a new file named 'hello-world.txt' then stage and commit it.
